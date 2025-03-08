@@ -1,0 +1,53 @@
+# === Archivos de compilación ===
+/target/
+/bin/
+/build/
+
+# === Archivos de configuración de IDEs ===
+.idea/
+*.iml
+*.iws
+*.ipr
+/.vscode/
+
+# === Dependencias y cachés ===
+/.mvn/
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+/.gradle/
+/.gradle/
+/out/
+/*.jar
+/*.war
+/*.ear
+
+# === Archivos generados por el sistema operativo ===
+.DS_Store
+Thumbs.db
+*.log
+
+# === Configuración de ejecución ===
+*.class
+*.project
+*.settings/
+*.classpath
+
+# === Archivos de prueba y cobertura ===
+/test-output/
+/jacoco.exec
+/jacoco/
+.coverage/
+coverage-report/
+
+# === Archivos de entorno ===
+.env
+*.env
+
+# === Archivos de dependencias de Java ===
+/lib/
+/mvnw
+/mvnw.cmd
+
+# === Archivos de logs ===
+logs/
+*.log
